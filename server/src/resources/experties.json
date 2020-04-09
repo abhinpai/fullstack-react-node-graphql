@@ -1,0 +1,77 @@
+[
+  {
+    "name": "React",
+    "technology": "Frontend",
+    "image": null
+  },
+  {
+    "name": "Angular",
+    "technology": "Frontend",
+    "image": null
+  },
+  {
+    "name": "Typescript",
+    "technology": "Programming Language",
+    "image": null
+  },
+  {
+    "name": "Flutter",
+    "technology": "Mobile Application Framework",
+    "image": null
+  },
+  {
+    "name": "Ionic",
+    "technology": "Mobile Application Framework",
+    "image": null
+  },
+  {
+    "name": "C#",
+    "technology": "Programming Langauge",
+    "image": null
+  },
+  {
+    "name": "Apollo GraphQL",
+    "technology": "Library: GraphQL",
+    "image": null
+  },
+  {
+    "name": "Webpack",
+    "technology": "Bundling",
+    "image": null
+  },
+  {
+    "name": ".Net Core",
+    "technology": "Backend",
+    "image": null
+  },
+  {
+    "name": "NodeJS",
+    "technology": "Backend",
+    "image": null
+  },
+  {
+    "name": "Firebase",
+    "technology": "Database",
+    "image": null
+  },
+  {
+    "name": "Neo4j",
+    "technology": "Database",
+    "image": null
+  },
+  {
+    "name": "MySql",
+    "technology": "Database",
+    "image": null
+  },
+  {
+    "name": "Github",
+    "technology": "Version Control",
+    "image": null
+  },
+  {
+    "name": "Openshift",
+    "technology": "Containerization",
+    "image": null
+  }
+]

@@ -1,0 +1,21 @@
+.section-selection {
+  margin-top: 26px;
+  & > ul {
+    list-style-type: none;
+    & > li {
+      display: flex;
+      margin: 14px 0px;
+      cursor: pointer;
+      & > .selection {
+        margin: auto;
+        margin-left: 12px;
+        font-size: 20px;
+        & > .span-selection {
+            margin-left: 6px;
+          font-size: 10px;
+          font-style: italic;
+        }
+      }
+    }
+  }
+}

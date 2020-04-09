@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "types": ["node"],
+    "allowSyntheticDefaultImports": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "./dist",
+    "rootDir": "src/",
+    "target": "esnext",
+    "noImplicitAny": false,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true
+  },
+  "exclude": ["dist", "node_modules"]
+}

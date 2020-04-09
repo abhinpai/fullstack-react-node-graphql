@@ -1,0 +1,11 @@
+{
+  "name": "Pai-Profile",
+  "version": "1.0.0",
+  "description": "Personal porfolio of Abhin Pai",
+  "main": "index.ts",
+  "author": "Abhin Pai",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.11.1"
+  }
+}
