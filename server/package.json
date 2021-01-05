@@ -7,7 +7,7 @@
     "start": "nodemon src/index.ts"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "compression": "^1.7.4",
     "date-fns": "^2.11.1",
     "express": "^4.17.1",
